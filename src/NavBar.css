@@ -2,6 +2,9 @@
     background-color: blue;
     text-align: center;
     font-weight: bold;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
 }
 
 .NavBar a {
