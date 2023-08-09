@@ -1,0 +1,10 @@
+.Twiglets-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Twiglets-homelink {
+    margin-bottom: 15px;
+    font-weight: bold;
+}

@@ -1,0 +1,11 @@
+.BubblyWater-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.BubblyWater-homelink {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+

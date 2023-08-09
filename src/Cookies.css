@@ -1,0 +1,10 @@
+.Cookies-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Cookies-homelink {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
