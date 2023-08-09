@@ -1,15 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./VendingMachine.css";
 
 
 function VendingMachine () {
 
     return (
         <div className="VendingMachine">
-            <h1>Vending Machine</h1>
+            <h1>Vending Machine Overlord</h1>
 
-            <div>
-                Click on a snack below for more information:
+            <div className="VendingMachine-content">
+                Click on a snack below or use the nav bar for more information:
                 <ul>
                     <li>
                         <Link to="/twiglets">
@@ -29,9 +30,10 @@ function VendingMachine () {
                         </Link>
                     </li>
                 </ul>
+
+                <img src="https://media.giphy.com/media/CprnDw0e7u1IHOioYp/giphy.gif"/>
             </div>
 
-            <img src="https://media.giphy.com/media/CprnDw0e7u1IHOioYp/giphy.gif"/>
         </div>
     )
 }
