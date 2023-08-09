@@ -14,6 +14,8 @@ function Twiglets () {
                 </Link>
             </div>
 
+            <img src="https://www.britishcornershop.co.uk/img/large/CS0024.jpg" />
+
         </div>
     )
 }

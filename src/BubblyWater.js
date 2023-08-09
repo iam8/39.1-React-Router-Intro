@@ -14,6 +14,7 @@ function BubblyWater () {
                 </Link>
             </div>
 
+            <img src="https://media.giphy.com/media/AGEykFYzcjANclu4rw/giphy.gif" />
         </div>
     )
 }

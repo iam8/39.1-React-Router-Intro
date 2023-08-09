@@ -7,6 +7,7 @@ function VendingMachine () {
     return (
         <div className="VendingMachine">
             <h1>Vending Machine</h1>
+
             <div>
                 Click on a snack below for more information:
                 <ul>
@@ -29,6 +30,8 @@ function VendingMachine () {
                     </li>
                 </ul>
             </div>
+
+            <img src="https://media.giphy.com/media/CprnDw0e7u1IHOioYp/giphy.gif"/>
         </div>
     )
 }
