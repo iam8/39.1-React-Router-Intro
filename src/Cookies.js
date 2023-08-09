@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./Cookies.css";
 
 
 function Cookies () {
@@ -8,13 +9,16 @@ function Cookies () {
         <div className="Cookies">
             <h1>Cookies!</h1>
 
-            <div>
-                <Link to="/">
-                    BACK TO HOME
-                </Link>
+            <div className="Cookies-content">
+                <div className="Cookies-homelink">
+                    <Link to="/">
+                        BACK TO HOME
+                    </Link>
+                </div>
+
+                <img src="https://media.giphy.com/media/YovEFrZNGMkF2/giphy.gif" />
             </div>
 
-            <img src="https://media.giphy.com/media/YovEFrZNGMkF2/giphy.gif" />
         </div>
     )
 }
