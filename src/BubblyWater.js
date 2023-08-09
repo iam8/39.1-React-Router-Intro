@@ -16,7 +16,10 @@ function BubblyWater () {
                     </Link>
                 </div>
 
-                <img src="https://media.giphy.com/media/AGEykFYzcjANclu4rw/giphy.gif" />
+                <img
+                    src="https://media.giphy.com/media/AGEykFYzcjANclu4rw/giphy.gif"
+                    alt="La Croix in a watermelon"
+                />
             </div>
 
         </div>

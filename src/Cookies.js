@@ -16,7 +16,10 @@ function Cookies () {
                     </Link>
                 </div>
 
-                <img src="https://media.giphy.com/media/YovEFrZNGMkF2/giphy.gif" />
+                <img
+                    src="https://media.giphy.com/media/YovEFrZNGMkF2/giphy.gif"
+                    alt="Cookie Monster eating cookies"
+                />
             </div>
 
         </div>

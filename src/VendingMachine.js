@@ -31,7 +31,10 @@ function VendingMachine () {
                     </li>
                 </ul>
 
-                <img src="https://media.giphy.com/media/CprnDw0e7u1IHOioYp/giphy.gif"/>
+                <img
+                    src="https://media.giphy.com/media/CprnDw0e7u1IHOioYp/giphy.gif"
+                    alt="Dwight Schrute vs vending machine"
+                />
             </div>
 
         </div>
