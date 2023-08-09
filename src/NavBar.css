@@ -1,0 +1,22 @@
+.NavBar {
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.NavBar a {
+    padding: 0px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.NavBar a:hover {
+    background-color: black;
+    color: white
+}
+
+.NavBar a.active {
+    font-weight: bold;
+    background-color: midnightblue;
+    color: white;
+}
